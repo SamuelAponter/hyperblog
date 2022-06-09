@@ -7,3 +7,5 @@ Por que toca terminar el curso de Git y GitHub
 La ultima versión será a las 6:30 pm 
 
 Vamos a ver si sirve
+
+Que creo que tiene algunos errores
