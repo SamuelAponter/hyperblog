@@ -14,6 +14,7 @@ En dicho curso se hace seguimiento a diferentes temáticas como :
 * En el curso se cubre varios aspectos que se ven en un entorno
 de desarrollo cotidiano y cubre aspectos para la solución de
 problemas que pueden presentarse en un flujo de trabajo . 
+* Creado por el íncreible Platzi Team
 
 Se simula la elaboración de un Blog para trabajar todas las
 funcionalidades posibles ofrecidas por Git y las posibles
