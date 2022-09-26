@@ -16,6 +16,7 @@ de desarrollo cotidiano y cubre aspectos para la solución de
 problemas que pueden presentarse en un flujo de trabajo . 
 * Creado por el íncreible Platzi Team
 * Incluye ejemplos en Windows, Linux y Mac
+* Disponible para todas las edades
 
 Se simula la elaboración de un Blog para trabajar todas las
 funcionalidades posibles ofrecidas por Git y las posibles
